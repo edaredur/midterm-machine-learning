@@ -1,0 +1,4 @@
+Model,Silhouette Score,Calinski-Harabasz,Davies-Bouldin,Num Clusters,Noise Points
+K-Means,0.17971034655640666,1807.6918831909143,1.6794071640713975,4,0
+Hierarchical (complete),0.8313778352936277,394.56280242900414,0.21751694913788278,4,0
+DBSCAN,,,,1,71
