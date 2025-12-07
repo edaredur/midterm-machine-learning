@@ -145,9 +145,9 @@ Dataset Ketiga/
 
 ## 👤 Author Information
 
-- **Name**: [Your Name]
-- **Class**: [Your Class]
-- **NIM**: [Your Student ID]
+- **Name**: Heydar Aqiila Alfarraz
+- **Class**: TK-46-05
+- **NIM**: 1103223026
 
 ## 📄 License
 
@@ -156,3 +156,4 @@ This project is submitted as part of the Machine Learning Midterm Examination.
 ---
 
 *Last Updated: December 2024*
+
