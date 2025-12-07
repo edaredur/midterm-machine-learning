@@ -404,9 +404,13 @@ notebook>=6.4.0
 ## 👨‍💻 Author
 
 **Machine Learning Midterm Project**
-- Course: Machine Learning
-- Semester: 7
-- Institution: [Your University]
+| Field | Details |
+|-------|---------|
+| **Name** | Heydar Aqiila Alfarraz |
+| **Class** | TK 46 05 |
+| **NIM** | 1103223026 |
+| **Course** | Machine Learning - Midterm Assignment |
+| **Semester** | 7 |
 
 ---
 
@@ -427,3 +431,4 @@ This project is for educational purposes as part of a university midterm examina
 <p align="center">
   <b>⭐ If you found this helpful, please give it a star! ⭐</b>
 </p>
+
